@@ -1,0 +1,8 @@
+{
+  "name": "NurtureTrack: Smart Newborn Feeding Assistant",
+  "description": "A high-utility feeding tracker designed for sleep-deprived parents. Features one-handed logging, AI-driven feeding predictions, and calm visual aesthetics to reduce mental load.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
